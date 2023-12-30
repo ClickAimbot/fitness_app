@@ -10,7 +10,7 @@ module.exports = {
     screens: {
       sm: '480px',
       md: '768px',
-      lg: '976px',
+      lg: '1040px',
       xl: '1440px',
     },
     colors: {
@@ -19,6 +19,7 @@ module.exports = {
       'white': '#f8fafc',
       'black': '#000000',
       'gray': '#e2e8f0',
+      'darkgray': '#27272a',
     },
     fontFamily: {
       sans: ['Graphik', 'sans-serif'],

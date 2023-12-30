@@ -8,3 +8,17 @@
     background: white;
     opacity: 0.25;
 }
+
+@media(max-width: 480px) {
+    header.header {
+
+    }
+    
+    div.hero {
+    
+    }
+    
+    div.plans {
+    
+    }
+}
